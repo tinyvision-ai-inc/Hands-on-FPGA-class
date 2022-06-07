@@ -20,19 +20,33 @@ The material should ideally be augmented by weekly interactions with a teacher/e
 2. Real world examples of what the topic would be useful for to help students understand why they wouild want to learn the topic
 3. Intuitive understanding of the topic where applicable
 
-### Week 1:
-### Week 2:
-### Week 3:
-### Week 4:
-### Week 5:
-### Week 6:
-### Week 7:
-### Week 8:
-### Week 9:
-### Week 10:
-### Week 11:
-### Week 12:
+### Week 1: FPGA introduction
+1st 2 videos of Shawn Hymel, FPGA toolchain setup, simulation setup
 
+### Week 2: Introduction to logic design, number representation.
+Basic simulation of logic using verilator/verilog testbenches
+
+### Week 3: Clocks, verilog experimentation, testbenches, synthesize basic design for FPGA using yosys toolflow
+
+### Week 4: State machines, implement using verilog
+Traffic signals mini project
+
+### Week 5: Memories: RAM, ROM
+Play with verilog to generate memories and use them in a design. eg. generate some pattern of outputs in the simulator
+
+### Week 6: Interfacing with the real world:
+Clock domain crossing: why, how, Metastability
+
+### Week 7: Interfacing with the real world:
+Debouncing switches, serial protocols: SPI, UART, I2C etc. 
+
+### Week 8: Moving data using busses:
+Valid-ready protocol, AXI, AHB etc.
+
+### Week 9: Open topics from the audience, a deeper look into a complete but simple design. Any suggestions? Say a RISCv?
+
+### Week 10: Introduction to other methodologies: 
+CHISEL, High level synthesis, Amaranth, LiteX, CFU Playground
 
 ## [Resource list](/resource_list.md)
  A curated collection of various sites/books/videos/tutorials and more to help guide those wanting to learn about FPGAs but not quite sure where to begin.
