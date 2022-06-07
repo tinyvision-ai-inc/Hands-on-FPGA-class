@@ -22,17 +22,25 @@ The material should ideally be augmented by weekly interactions with a teacher/e
 
 ### Week 1: FPGA introduction
 1st 2 videos of Shawn Hymel, FPGA toolchain setup, simulation setup
+[ZipCPU Preface](http://zipcpu.com/tutorial/lsn-00-preface.pdf)
+
 
 ### Week 2: Introduction to logic design, number representation.
 Basic simulation of logic using verilator/verilog testbenches
+[ZipCPU Wires and Combinatorial logic](http://zipcpu.com/tutorial/lsn-01-wires.pdf)
+
 
 ### Week 3: Clocks, verilog experimentation, testbenches, synthesize basic design for FPGA using yosys toolflow
+[ZipCPU Registers and Blinky](http://zipcpu.com/tutorial/lsn-02-regs.pdf)
 
 ### Week 4: State machines, implement using verilog
+[ZipCPU Finite State Machines](http://zipcpu.com/tutorial/lsn-03-fsm.pdf)
+
 Traffic signals mini project
 
 ### Week 5: Memories: RAM, ROM
 Play with verilog to generate memories and use them in a design. eg. generate some pattern of outputs in the simulator
+[ZipCPU Using Block RAM](http://zipcpu.com/tutorial/lsn-08-memory.pdf)
 
 ### Week 6: Interfacing with the real world:
 Clock domain crossing: why, how, Metastability
