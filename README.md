@@ -1,4 +1,4 @@
-# FPGA_master_class
+# Hands on FPGA Class
 
 Hardware design and more narrowly, digital electronics forms the basis for almost all devices that modern society takes for granted. We believe in learning by doing and have put together a progression of topics as well as a curated list of resources to help students to get a quick introduction to the field. This is not a substitute for a more formal and deeper course that may be found at a University. Focus is on learnign by doing and getting an intuitive understanding of how things work.
 
