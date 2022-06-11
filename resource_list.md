@@ -20,6 +20,8 @@
 | [Verilator](https://www.veripool.org/verilator/) |
 | [Icarus Verilog](http://iverilog.icarus.com/) |
 | [Digital]( https://github.com/hneemann/Digital/releases) |
+| [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html) |
+| [FPGA Design Elements](http://fpgacpu.ca/fpga/index.html) |
 --------------------------------------------------------------------------------------------------------
 | **Intermediate** |
 | --- |
@@ -40,7 +42,6 @@
 | **Advanced** |
 | --- |
 | [ZIPCPU](http://zipcpu.com/) |
-| [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html) |
 | [Libre-SOC](https://libre-soc.org/) |
 | [open FPGA](https://github.com/azonenberg/openfpga) |
 | [FASM](https://fasm.readthedocs.io/en/latest/) |
