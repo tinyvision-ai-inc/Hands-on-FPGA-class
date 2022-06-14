@@ -3,7 +3,8 @@
 ## Material
 - [Shawn Hymel FPGA Part 1: Introduction](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
 - [Shawn Hymel FPGA Part 2: environment setup](https://www.digikey.com/en/maker/projects/introduction-to-fpga-part-2-toolchain-setup/563a9518cd11466fb6a75cf3cb684d6d)
-
+- Complete [ES4 course](http://www.ece.tufts.edu/es/4/) Week 1 and 2
+- 
 ## Tasks
 - Review the website for open source toolchains etc.: [FPGA Wars](http://fpgawars.github.io/)
 - Setup your simulation and synthesis environment
