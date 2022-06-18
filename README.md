@@ -2,9 +2,9 @@
 
 Hardware design and more narrowly, digital electronics forms the basis for almost all devices that modern society takes for granted. We believe in learning by doing and have put together a progression of topics as well as a curated list of resources to help students to get a quick introduction to the field. This is not a substitute for a more formal and deeper course that may be found at a University. Focus is on learning by doing and getting an intuitive understanding of how things work.
 
-This course augments the excellent series on an [Introduction to FPGA's by Shawn Hymel](https://github.com/ShawnHymel/introduction-to-fpga) as well as other many introductory FPGA courses. As such, it is not really a course in itself but a collection of pointers of similar material so students can learn from a variety of resources.
+This course augments the excellent series on an [Introduction to FPGA's by Shawn Hymel](https://github.com/ShawnHymel/introduction-to-fpga) as well as many other introductory FPGA courses. As such, it is not really a course in itself according to the traditional definition, but rather a collection of pointers to relevant material so students can choose to learn from a variety of resources in whatever way works best for them.
 
-This course is a self-paced, hands-on class and we hope that by the time you complete all the modules, you would have gained an understanding of how digital electronics works at a level sufficient to put together simple projects on your own. The course has a broad audience of learners from a typical high school level upwards.
+This course is a self-paced, hands-on class and we hope that by the time you complete all the modules, you will have gained an understanding of how digital electronics works at a level sufficient to put together simple projects on your own. The course has a broad audience of learners from a typical high school level upwards.
 
 ## Hardware
 
@@ -12,6 +12,9 @@ Access to an FPGA board is not essential and we have identified a few online sim
 
 We will use the open-source [UPDuino](https://github.com/tinyvision-ai-inc/UPduino-v3.0) as the FPGA platform which you can purchase directly from [tinyVision.ai](https://tinyvision.ai/products/upduino-v3-1), [Lectronz](https://lectronz.com/products/upduino-v3-1-low-cost-lattice-ice40-fpga-board) (for EU orders) or [Tindie](https://www.tindie.com/products/tinyvision_ai/upduino-v31-low-cost-lattice-ice40-fpga-board/).
 
+If the UPDuino is out of stock or otherwise unavailable, there are alternative FPGA boards that will allow you to follow along with most of the material.
+The UPDuino has a lattice iCE40-UP5K FPGA, purchasing a board that does as well is the best way to ensure a similar experience. Other boards/FPGAs are supported by the open source toolchains to varying degrees.  
+A good resource for selecting one of the more affordable options as well as a guide on what the differences are, is detailed in this [fantastic blog post by Joel Williams](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards). That being said, due to the unique quirks of every board, unforseen problems/difficulties may occur. We are not able to offer support for 3rd party boards, in other words **Your mileage may vary**.  
 
 ## Course Methodology
 The pace of this course can be varied significantly depending on your time availability and committment. Each module is intended to take a few hours overall to go through the reading material and also perform the experiments on hardware. Initial modules focus on providing the student with resources to get up and running on the hardware as well as environment setup which can be challenging. We will rely as much as possible on open-source tools to enable the audience to be as wide as possible.
@@ -56,7 +59,7 @@ CHISEL, High level synthesis, Amaranth, LiteX, CFU Playground
 
 ## [Resource list](/resource_list.md)
  A curated collection of various sites/books/videos/tutorials and more to help guide those wanting to learn about FPGAs but not quite sure where to begin.
- The list is an abbreviated version of the more detailed [google sheet](https://bit.ly/Learn_FPGA).
+ The list is an abbreviated subset of [the more detailed google sheet](https://bit.ly/Learn_FPGA).
  
  Anything not already listed that is relevant to FPGAs? [Please let us know](https://forms.gle/zcpHWAm1DT5WMZzA8) so it can be shared with fellow learners
 
