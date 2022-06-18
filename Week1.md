@@ -9,8 +9,13 @@
 - Setup your simulation and synthesis environment
 
 ## Suggested setup:
-- Graphical Simulator: [ICE Studio](https://github.com/fpgawars/icestudio)
-- Online simulator: [8 Bit Workshop](https://8bitworkshop.com/)
+
+- Online Verilog Simulators:
+  - [EDA Playground](https://www.edaplayground.com/)
+  - [8 Bit Workshop](https://8bitworkshop.com/)
+
+- Graphical FPGA Building Tool: [ICE Studio](https://github.com/fpgawars/icestudio)
+
 - IDE's: You can use plain old Notepad but I prefer to use an IDE meant for Verilog. Some IDE's I've used for Verilog, in alphabetical order:
   - [emacs](https://www.gnu.org/software/emacs/): has a wonderful autocompletion mode that automates various tedious error prone tasks.
   - [SublimeText](https://www.sublimetext.com/) with [System Verilog Plugin](https://sv-doc.readthedocs.io/en/latest/)

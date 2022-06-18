@@ -27,8 +27,6 @@ The material should ideally be augmented by weekly interactions with a teacher/e
 ### [Week 1: What is an FPGA and Toolchain setup](Week1.md)
 
 ### [Week 2: Getting started with Verilog, logic design](Week2.md)
-Basic simulation of logic using verilator/verilog testbenches
-[ZipCPU Wires and Combinatorial logic](http://zipcpu.com/tutorial/lsn-01-wires.pdf)
 
 ### Week 3: Clocks, verilog experimentation, testbenches, synthesize basic design for FPGA using yosys toolflow
 [ZipCPU Registers and Blinky](http://zipcpu.com/tutorial/lsn-02-regs.pdf)
