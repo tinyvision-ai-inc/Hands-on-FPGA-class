@@ -10,7 +10,7 @@ This course is a self-paced, hands-on class and we hope that by the time you com
 
 Access to an FPGA board is not essential and we have identified a few online simulators that can provide as close an experience as possible to a real world FPGA. However, there is no substitute for playing with real hardware and experiencing the non-idealities of the real world where real learning happens.
 
-We will use the open-source [UPDuino](https://github.com/tinyvision-ai-inc/UPduino-v3.0) as the FPGA platform which you can purchase directly from [tinyVision.ai](https://tinyvision.ai/products/upduino-v3-1), [Lectronz](https://lectronz.com/products/upduino-v3-1-low-cost-lattice-ice40-fpga-board) (for EU orders) or [Tindie](https://www.tindie.com/products/tinyvision_ai/upduino-v31-low-cost-lattice-ice40-fpga-board/).
+We will use the open-source [UPDuino](https://github.com/tinyvision-ai-inc/UPduino-v3.0) as the FPGA platform which you can purchase directly from [www.tinyVision.ai](https://tinyvision.ai/products/upduino-v3-1), [Lectronz](https://lectronz.com/products/upduino-v3-1-low-cost-lattice-ice40-fpga-board) (for EU orders) or [Tindie](https://www.tindie.com/products/tinyvision_ai/upduino-v31-low-cost-lattice-ice40-fpga-board/).
 
 If the UPDuino is out of stock or otherwise unavailable, there are alternative FPGA boards that will allow you to follow along with most of the material.
 The UPDuino has a lattice iCE40-UP5K FPGA, purchasing a board that does as well is the best way to ensure a similar experience. Other boards/FPGAs are supported by the open source toolchains to varying degrees.  
