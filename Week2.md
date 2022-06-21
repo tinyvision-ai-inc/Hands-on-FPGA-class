@@ -12,6 +12,7 @@
 - Online Verilog Simulators:
   - [EDA Playground](https://www.edaplayground.com/)
   - [8 Bit Workshop](https://8bitworkshop.com/)
+  - [CircuitVerse](https://learn.circuitverse.org/)
 - Graphical FPGA Building Tool: [ICE Studio](https://github.com/fpgawars/icestudio)
 
 ## Challenge
