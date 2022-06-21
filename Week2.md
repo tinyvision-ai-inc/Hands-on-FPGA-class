@@ -1,7 +1,7 @@
 # Week 2: Getting started with logic design, Verilog simulations
 
 ## Material
-- [Module 2 Slide Deck](Slides\Hands on with FPGA's Module 2.pptx)
+- [Module 2 Slide Deck](Slides/Hands_on_with_FPGA's_Module_2.pptx)
 - [Prof Chuck Pateros](https://www.sandiego.edu/engineering/undergraduate/computer-science/biography.php?profile_id=6276#:~:text=(Chuck)%20Pateros%20is%20Professor%20of,overseeing%20laboratories%20and%20network%20facilities.) 
   - [Slide deck](https://docs.google.com/presentation/d/1oOwXZfakxP4jgxQA-depaYAc3wtBubVJPcbfLCDveWg/edit?usp=sharing)
 
