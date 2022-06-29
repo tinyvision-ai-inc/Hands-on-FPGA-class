@@ -1,4 +1,4 @@
-# Week 2: Getting started with logic design, Verilog simulations
+# Week 3: Getting started with logic design, Verilog simulations
 
 ## Material
 - [Module 3 Slide Deck](Slides/Hands_on_with_FPGA's_Module_3.pptx)
