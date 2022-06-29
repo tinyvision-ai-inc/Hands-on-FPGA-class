@@ -31,8 +31,7 @@ The material should ideally be augmented by weekly interactions with a teacher/e
 
 ### [Week 2: Getting started with Verilog, logic design](Week2.md)
 
-### Week 3: Clocks, verilog experimentation, testbenches, synthesize basic design for FPGA using yosys toolflow
-[ZipCPU Registers and Blinky](http://zipcpu.com/tutorial/lsn-02-regs.pdf)
+### [Week 3: Clocks, verilog experimentation](Week3.md)
 
 ### Week 4: State machines, implement using verilog
 [ZipCPU Finite State Machines](http://zipcpu.com/tutorial/lsn-03-fsm.pdf)
