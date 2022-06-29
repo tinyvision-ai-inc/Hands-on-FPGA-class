@@ -28,6 +28,6 @@ Challenge: Use Circuitverse or preferably SystemVerilog to create a 4-bit binary
 4. What if you didn’t have a reset condition? Can you see what happens?
 
 ### Advanced Challenges/Thought experiments:
-1. Can you create a clock from plain logic gates? What is the minimum number of gates you need to create a clock? 
+1. Can you create a clock signal from plain logic gates? What is the minimum number of gates you need to create a clock? What determines the frequency of th e clock?
 2. How can you create a clock circuit from a NAND gate, resistor and a capacitor?
 3. Analyze some verilog code found in the examples of the [8 Bit Workshop](https://8bitworkshop.com/)
