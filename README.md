@@ -33,10 +33,8 @@ The material should ideally be augmented by weekly interactions with a teacher/e
 
 ### [Week 3: Clocks, verilog experimentation](Week3.md)
 
-### Week 4: State machines, implement using verilog
-[ZipCPU Finite State Machines](http://zipcpu.com/tutorial/lsn-03-fsm.pdf)
+### [Week 4: State machines](Week4.md)
 
-Traffic signals challenge
 
 ### Week 5: Memories: RAM, ROM
 Play with verilog to generate memories and use them in a design. eg. generate some pattern of outputs in the simulator
