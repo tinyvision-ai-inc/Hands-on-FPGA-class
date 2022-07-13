@@ -35,10 +35,7 @@ The material should ideally be augmented by weekly interactions with a teacher/e
 
 ### [Week 4: State machines](Week4.md)
 
-
-### Week 5: Memories: RAM, ROM
-Play with verilog to generate memories and use them in a design. eg. generate some pattern of outputs in the simulator
-[ZipCPU Using Block RAM](http://zipcpu.com/tutorial/lsn-08-memory.pdf)
+### [Week 5: Memories: RAM, ROM](Week5.md)
 
 ### Week 6: Interfacing with the real world:
 Clock domain crossing: why, how, Metastability

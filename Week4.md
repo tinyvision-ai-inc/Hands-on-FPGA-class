@@ -1,4 +1,4 @@
-# Week 3: State Machines
+# Week 4: State Machines
 
 ## Material
 - [Module 4 Slide Deck](Slides/Hands_on_with_FPGA's_Module_4.pdf)
