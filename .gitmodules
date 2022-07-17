@@ -1,0 +1,3 @@
+[submodule "wb_intercon"]
+	path = wb_intercon
+	url = https://github.com/olofk/wb_intercon.git
