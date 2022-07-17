@@ -12,10 +12,6 @@
   - Pin Constraints
   - Timing constraints
   - Place and Route
-  - Coding for FPGA's
-
-
-
 
 ## Material
 - [Module 6 Slide Deck](Slides/Hands_on_with_FPGA's_Module_6.pdf)
@@ -24,15 +20,29 @@
   - [NoC](https://www.design-reuse.com/articles/10496/a-comparison-of-network-on-chip-and-busses.html)
   - [Wishbone Specification](https://cdn.opencores.org/downloads/wbspec_b4.pdf)
   - [Valid-Ready Protocol](https://inst.eecs.berkeley.edu/~cs150/Documents/Interfaces.pdf)
+  - Matt Venn's videos on [yosys](https://www.youtube.com/watch?v=A5AHglpfdtQ), [nextpnr](https://www.youtube.com/watch?v=V6B3vT3jMlM), [icepack/iceprog](https://www.youtube.com/watch?v=h4bArgeqcLQ)
+  - [Lattice iCE40 Ultra Plus FPGA Datasheet](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40UltraPlus)
 
-## Suggested tools:
-- [Graphical Circuit Simulator](https://circuitverse.org/)
-- Online Verilog Simulators:
-  - [EDA Playground](https://www.edaplayground.com/)
-  - [8 Bit Workshop](https://8bitworkshop.com/)
-- Graphical FPGA Building Tool: [ICE Studio](https://github.com/fpgawars/icestudio)
-- Get comfortable with the command line & Makefiles to run tools: GUI's are low productivity for coding.
 
 ## Challenge:
-Hint: 
+Go through a non-trivial FPGA design backend
+- Download the [upduino-video project](https://github.com/XarkLabs/upduino-video)
+- Install the related toolchains
+- Run the simulation
+- Generate the bitfile
+- Identify the following parts of the design process we learned about:
+    - Simulations
+    - Pin constraints
+    - Clock constraints
+    - Placement related steps
+    - Routing related steps
+    - Bitgen
+- Are you able to identify how large the design is from the logs?
+- What clock frquency was the design able to meet? Rerun the tools and see if this changes. Can you explain why this is different?
+- Make changes to the code and play with it to see if you can get any changes in the output of the simulations.
+
 ### Advanced Challenges/Thought experiments:
+- Download the [picosoc](https://github.com/YosysHQ/picorv32) project and play with it.
+    - Do you see any difference in how long the FPGA backend process takes?
+    - Are you able to identify how large the design is from the logs?
+    - What clock frquency was the design able to meet? Rerun the tools and see if this changes. Can you explain why this is different?
