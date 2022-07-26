@@ -37,18 +37,11 @@ The material should ideally be augmented by weekly interactions with a teacher/e
 
 ### [Week 5: Memories: RAM, ROM](Week5.md)
 
-### Week 6: Interfacing with the real world:
-Clock domain crossing: why, how, Metastability
+### [Week 6: Interfacing with the real world: Digital systems architecture](Week6.md)
 
-### Week 7: Interfacing with the real world:
-Debouncing switches, serial protocols: SPI, UART, I2C etc. 
+### [Week 7: Interfacing with the real world: Clock domain crossings, reusing code/IP](Week7.md)
 
-### Week 8: Moving data using busses:
-Valid-ready protocol, AXI, AHB etc.
-
-### Week 9: Open topics from the audience, a deeper look into a complete but simple design. Any suggestions? Say a RISCv?
-
-### Week 10: Introduction to other methodologies: 
+### [Week 8: Introduction to other methodologies, Guest lecture](Week8.md)
 CHISEL, High level synthesis, Amaranth, LiteX, CFU Playground
 
 ## [Resource list](/resource_list.md)
