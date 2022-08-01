@@ -42,7 +42,6 @@ The material should ideally be augmented by weekly interactions with a teacher/e
 ### [Week 7: Interfacing with the real world: Clock domain crossings, reusing code/IP](Week7.md)
 
 ### [Week 8: Introduction to other methodologies, Guest lecture](Week8.md)
-CHISEL, High level synthesis, Amaranth, LiteX, CFU Playground
 
 ## [Resource list](/resource_list.md)
  A curated collection of various sites/books/videos/tutorials and more to help guide those wanting to learn about FPGAs but not quite sure where to begin.
