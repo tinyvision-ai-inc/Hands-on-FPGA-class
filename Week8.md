@@ -1,4 +1,4 @@
-# Week 7: Getting into the real world
+# Week 8: Getting into the real world
 Other ways to code for Hardware:
 CHISEL, High level synthesis, Amaranth, LiteX, CFU Playground
 
